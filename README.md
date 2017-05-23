@@ -1,6 +1,5 @@
 # OuluHousePrices
-Oulu House Price using Linear Regression model
-
+Oulu House Price using Linear Regression model in Jupyter Notebook environment
 
 Steps took on this project:
 * Data Mining(Scrapy Framework)
